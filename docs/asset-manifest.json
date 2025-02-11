@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quant-main/static/css/main.d6ba5325.css",
-    "main.js": "/quant-main/static/js/main.989d3fdf.js",
+    "main.js": "/quant-main/static/js/main.7df6823d.js",
     "static/media/.173.otf": "/quant-main/static/media/.173.c1cff826d9047c06ce8b.otf",
     "static/media/Mark Simonson - Proxima Nova A.otf": "/quant-main/static/media/Mark Simonson - Proxima Nova A.8320c42023dc4a198280.otf",
     "static/media/Mark Simonson  Proxima Nova Bold.otf": "/quant-main/static/media/Mark Simonson  Proxima Nova Bold.fcaab2524c5baabd71f6.otf",
@@ -10,10 +10,10 @@
     "static/media/Helvetica Regular.otf": "/quant-main/static/media/Helvetica Regular.65117ef0693e338e7620.otf",
     "index.html": "/quant-main/index.html",
     "main.d6ba5325.css.map": "/quant-main/static/css/main.d6ba5325.css.map",
-    "main.989d3fdf.js.map": "/quant-main/static/js/main.989d3fdf.js.map"
+    "main.7df6823d.js.map": "/quant-main/static/js/main.7df6823d.js.map"
   },
   "entrypoints": [
     "static/css/main.d6ba5325.css",
-    "static/js/main.989d3fdf.js"
+    "static/js/main.7df6823d.js"
   ]
 }
