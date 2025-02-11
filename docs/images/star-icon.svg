@@ -1,0 +1,15 @@
+<svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    #star-icon_2{
+        fill: #4094DA;
+    }
+    #ellipse{
+        stroke: #FFFFFF;
+        opacity: 0.7;
+    }
+</style>
+<g id="star-icon">
+<rect id="ellipse" x="1.26221" y="0.5" width="19" height="19" rx="9.5" stroke="black"/>
+<path id="star-icon_2" d="M7.4373 14.6155L8.3123 10.9181L5.37769 8.43127L9.25461 8.10232L10.7623 4.61548L12.27 8.10232L16.1469 8.43127L13.2123 10.9181L14.0873 14.6155L10.7623 12.655L7.4373 14.6155Z" fill="black"/>
+</g>
+</svg>

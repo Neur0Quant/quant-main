@@ -1,0 +1,14 @@
+<svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    #outer-ellipse{
+        stroke: white;
+    }
+    #inner-ellipse{
+        stroke: white;
+    }
+</style>
+<g id="music-icon">
+<circle id="outer-ellipse" cx="11.5" cy="11.5" r="10.5" stroke="black" stroke-width="2"/>
+<circle id="inner-ellipse" cx="11.5" cy="11.5001" r="2.69444" stroke="black"/>
+</g>
+</svg>

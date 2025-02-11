@@ -1,0 +1,9 @@
+<svg width="26" height="7" viewBox="0 0 26 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    #button-collapse-icon{
+        opacity: 0.7;
+        stroke: #FFFFFF;
+    }
+</style>
+<path id="button-collapse-icon" d="M1 6L12.4286 1L25 6" stroke="black"/>
+</svg>

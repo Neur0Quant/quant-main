@@ -1,0 +1,14 @@
+<svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    #ellipse{
+        stroke: #4094DA;
+    }
+    #exclamatory-mark{
+        fill: #FFFFFF;
+    }
+</style>
+<g id="info-icon">
+<circle id="ellipse" cx="10.7622" cy="10" r="9.5" stroke="black"/>
+<path id="exclamatory-mark" d="M10.2068 4.44458V11.9446H11.3179V4.44458H10.2068ZM10.2068 13.1946V14.4446H11.3179V13.1946H10.2068Z" fill="black"/>
+</g>
+</svg>

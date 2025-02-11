@@ -1,0 +1,9 @@
+<svg width="11" height="22" viewBox="0 0 11 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    #button-next-profile{
+        fill: rgba(217, 217, 217, 0.3);
+        opacity: 0.3;
+    }
+</style>
+<path id="button-next-profile" d="M11 11L0.5 21.3923L0.5 0.607696L11 11Z" fill="black"/>
+</svg>

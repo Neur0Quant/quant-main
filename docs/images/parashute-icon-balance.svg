@@ -1,0 +1,16 @@
+<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    #parachute-tip{
+        fill: #FFFFFF;
+        stroke: #FFFFFF;
+    }
+    #parachute-base{
+        fill: #FFFFFF;
+        stroke: #FFFFFF;
+    }
+</style>
+<g id="parashute-icon-list-refferals">
+<path id="parachute-tip" d="M8.31802 12.5C9.71182 11.1062 11.1058 10.4093 12.5 10.4093C13.8942 10.4093 15.2882 11.1062 16.682 12.5C18.3085 11.1062 19.528 10.4093 20.3407 10.4093C21.1541 10.4093 22.3739 11.1062 24 12.5C24 6.14855 18.8514 1 12.5 1C6.14855 1 1 6.14855 1 12.5C2.62648 11.1062 3.84625 10.4093 4.6593 10.4093C5.47235 10.4093 6.69192 11.1062 8.31802 12.5Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path id="parachute-base" d="M1 12.5L12.5 24M12.5 24L8.31802 12.5M12.5 24L16.682 12.5M12.5 24L24 12.5" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="39" height="11" viewBox="0 0 39 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="button-open-panel">
+<circle id="left-ellipse" cx="5.5" cy="5.5" r="5.5" fill="black"/>
+<circle id="central-ellipse" cx="19.25" cy="5.5" r="5.5" fill="black"/>
+<circle id="right-ellipse" cx="33" cy="5.5" r="5.5" fill="black"/>
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    #stick, #rectangle{
+        fill: #E4272A;
+    }
+    #ellipse{
+        stroke: #FFFFFF;
+        opacity: 0.7;
+    }
+</style>
+<g id="warning-icon">
+<rect id="ellipse" x="1.26221" y="0.5" width="19" height="19" rx="9.5" stroke="black"/>
+<g id="marks-icon">
+<g id="left-mark">
+<path id="stick" d="M9.65105 12.6088H8.79635L8.45447 5.38477H9.99293L9.65105 12.6088Z" fill="black"/>
+<rect id="rectangle" x="8.64709" y="13.4114" width="1.15385" height="1.20401" fill="black"/>
+</g>
+<g id="right-mark">
+<path id="stick" d="M12.7282 12.6088H11.8735L11.5316 5.38477H13.0701L12.7282 12.6088Z" fill="black"/>
+<rect id="rectangle" x="11.724" y="13.4114" width="1.15385" height="1.20401" fill="black"/>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="26" height="23" viewBox="0 0 26 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    #comment-button{
+        stroke: #FFFFFF;
+    }
+</style>
+<path id="comment-button" fill-rule="evenodd" clip-rule="evenodd" d="M13.2223 19.3274C13.1484 19.3284 13.0743 19.3289 13 19.3289C6.37258 19.3289 1 15.2259 1 10.1645C1 5.10307 6.37258 1 13 1C19.6274 1 25 5.10307 25 10.1645C25 11.4445 24.6564 12.6633 24.0357 13.7698C23.203 15.3343 21.9178 16.7305 20.5237 17.935C18.3995 19.7702 15.9418 21.1555 14.1916 21.9363C13.7287 22.1428 13.2223 21.8194 13.2223 21.369V19.3274Z" stroke="black" stroke-width="2"/>
+</svg>

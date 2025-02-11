@@ -1,0 +1,15 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    #update-button{
+        stroke: #FFFFFF;
+        opacity: 0.7;
+    }
+    #update-icon{
+        stroke: #4094DA;
+    }
+</style>
+<g id="wait-button">
+<rect id="update-button" x="0.5" y="0.5" width="19" height="19" rx="9.5" stroke="black"/>
+<path id="update-icon" d="M10.0582 4.61523C11.2017 4.61516 12.3149 4.98718 13.2331 5.67626C14.1513 6.36534 14.8257 7.3349 15.1567 8.44152C15.4876 9.54814 15.4575 10.7331 15.0707 11.821C14.684 12.909 13.9611 13.8422 13.0091 14.4827C12.0571 15.1231 10.9264 15.4368 9.78443 15.3773C8.64242 15.3178 7.54967 14.8883 6.66781 14.1523C5.78595 13.4163 5.16181 12.4129 4.88771 11.2905C4.61361 10.1681 4.7041 8.98636 5.1458 7.91999M5.1458 7.91999L3.0769 9.23062M5.1458 7.91999L6.53844 9.61523" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
